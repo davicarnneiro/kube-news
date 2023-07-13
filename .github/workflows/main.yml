@@ -17,6 +17,6 @@ jobs:
         file: ./src/Dockerfile
         push: true
           tags: |
-            davicarnneiro/kube-news-aula:v1
-            davicarnneiro/kube-news-aula:latest
+            davicarneiro/kube-news-aula:v1
+            davicarneiro/kube-news-aula:latest
     
